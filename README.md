@@ -32,7 +32,7 @@ Conocimientos básicos de C: Debes tener conocimientos básicos sobre la sintaxi
 
 # Pasos para su ejecución:
 
-1. Abre la terminal: 
+1.Abre la terminal: 
 Puedes abrir la terminal en Ubuntu Desktop utilizando la combinación de teclas Ctrl+Alt+T o buscándola en el menú de aplicaciones.
 
 2.Navega hasta el directorio donde se encuentra tu archivo C: 
@@ -54,7 +54,7 @@ Una vez que has compilado tu programa con éxito.
 puedes ejecutarlo utilizando el siguiente comando:
 ./Conversor
 
-8. Salida de datos: 
+8.Salida de datos: 
 Solicita al usurio ingresar una de las 3 opciones y despues solicita que ingrese la cantidad a convertir.
 
 # Datos del autor:
